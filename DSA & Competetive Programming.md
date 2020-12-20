@@ -12,14 +12,12 @@
 - [Other DSA Shorts](https://www.youtube.com/playlist?list=PLiQoBx7ZPIJXCTKY6hpWtJDMszmKMKd9I)
 - [Linear Algebra - FreecodeCamp](https://www.youtube.com/watch?v=JnTa9XtvmfI&list=PLiQoBx7ZPIJVtO-6HGwg9u7ts7n5fz-fj&index=6)
 - [Sets and Logic - FreecodeCamp](https://www.youtube.com/watch?v=2SpuBqvNjHI&list=PLiQoBx7ZPIJVtO-6HGwg9u7ts7n5fz-fj&index=8)
-- []()
 
 ## CompQuestions :
-- 
+
 - [Leetcode Medium](https://www.youtube.com/playlist?list=PLKZaSt2df1gxOhklm7EPLZluIhGA7-9_Q)
 - [Leetcode Hard](https://www.youtube.com/playlist?list=PLKZaSt2df1gyrDJMAcAEV4j7Q5aFA22RU)
 - [Rachit Jain](https://www.youtube.com/playlist?list=PLfBJlB6T2eOuDDm9xscqMZR3nnLP5FiyN)
 - [Gaurav Sen Series](https://www.youtube.com/playlist?list=PLMCXHnjXnTnucEu8lYMatA23OOi_De3Zp)
 - [My Code School](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLPEZrZIcNEq9ukGWPfLT4A)
 - [Take U Forward - Placement Series](https://www.youtube.com/playlist?list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma)
-- []()
