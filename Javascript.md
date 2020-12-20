@@ -1,4 +1,4 @@
-## DSA YT Video's
+## JS Basics
 
 - [Akshay Saini's - Namaste JS](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
