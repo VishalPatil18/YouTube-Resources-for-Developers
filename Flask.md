@@ -1,0 +1,18 @@
+## Basics full courses : 
+
+- [The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDi9F_slcQK7knjtO8TUvUs)
+- [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
+- [Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)
+- [Julian Nash](https://www.youtube.com/playlist?list=PLF2JzgCW6-YY_TZCmBrbOpgx5pSNBD0_L)
+- [Pretty Printed 1](https://www.youtube.com/playlist?list=PLXmMXHVSvS-AjwTOtiW1DXFYTgUlrUmHV)
+- [Pretty Printed 2](https://www.youtube.com/playlist?list=PLXmMXHVSvS-AFMUmbBeIfL3PqTvgw8ygb)
+- [Flask Templates](https://www.youtube.com/playlist?list=PLXmMXHVSvS-ABlT4k4eS3YPJSnPUozw04)
+- [Flask SQLAlchemy](https://www.youtube.com/playlist?list=PLXmMXHVSvS-BlLA5beNJojJLlpE0PJgCW)
+- [Flask WTForms](https://www.youtube.com/playlist?list=PLXmMXHVSvS-C_T5JWEDWIc9yEM3Hj52-1)
+- [FreeCodeCamp 1](https://www.youtube.com/watch?v=Z1RJmh_OqeA)
+- [FreeCodeCamp 2](https://www.youtube.com/watch?v=-FWuNnCe73g)
+- [Clever Programmer](https://www.youtube.com/watch?v=3mwFC4SHY-Y)
+- [Edureka](https://www.youtube.com/watch?v=lj4I_CvBnt0)
+- [Corey Schafer - Blogging WebApp](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH)
+- [Workout Tracker](https://www.youtube.com/playlist?list=PLXmMXHVSvS-BV057PQaOJLnQ4Zp9McdRP)
+- [One Video Projects](https://www.youtube.com/playlist?list=PLiQoBx7ZPIJVy-o5o258wcpdsiOWhEL42)
