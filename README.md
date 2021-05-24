@@ -1,4 +1,4 @@
-# YouTube-Resources-for-Self-learning-Developers
+# YouTube-Resources-for-Developers
 
 ## DSA Learning
 
