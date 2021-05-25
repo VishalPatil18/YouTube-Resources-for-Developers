@@ -11,7 +11,6 @@
 - [MIT OpencourseWare - Intro to Algos](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Maths for Programmers - My Code School](https://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25)
 - [MIT OpenCourseWare - Maths for CS](https://www.youtube.com/playlist?list=PLB7540DEDD482705B)
-- [Other DSA Shorts](https://www.youtube.com/playlist?list=PLiQoBx7ZPIJXCTKY6hpWtJDMszmKMKd9I)
 - [Linear Algebra - FreecodeCamp](https://www.youtube.com/watch?v=JnTa9XtvmfI&list=PLiQoBx7ZPIJVtO-6HGwg9u7ts7n5fz-fj&index=6)
 - [Sets and Logic - FreecodeCamp](https://www.youtube.com/watch?v=2SpuBqvNjHI&list=PLiQoBx7ZPIJVtO-6HGwg9u7ts7n5fz-fj&index=8)
 
