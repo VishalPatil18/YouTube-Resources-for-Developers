@@ -1,9 +1,7 @@
 # YouTube Resources for Developers
 
 ## DSA Learning
-
 - [Regular Expressions - Hitesh Chaudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWTy-hzDNUrq3_mGjvm3ilQK)
-- [Apna College - Aman Dhattarwal](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
 - [DP Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc)
 - [Number Theory](https://www.youtube.com/playlist?list=PLu6Fsj7O8wrEwAiHG6-vpEZ1DUmgYDwD8)
 - [Number Theory - CodeNCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik4liHX78IRslXzUr8z5QxsG)
@@ -21,7 +19,6 @@
 - [Bit Manipulation - CodeNCode](https://www.youtube.com/playlist?list=PL2q4fbVm1Ik7ip1VkWwe5U_CEb93vw6Iu)
 
 ## Competitive Coding & Programming Questions
-
 - [Leetcode Medium](https://www.youtube.com/playlist?list=PLKZaSt2df1gxOhklm7EPLZluIhGA7-9_Q)
 - [Leetcode Hard](https://www.youtube.com/playlist?list=PLKZaSt2df1gyrDJMAcAEV4j7Q5aFA22RU)
 - [Rachit Jain](https://www.youtube.com/playlist?list=PLfBJlB6T2eOuDDm9xscqMZR3nnLP5FiyN)
@@ -36,7 +33,6 @@
 - [CSS in 30 Days - FreeCodeCamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAbl1AfjiGyYxwpdAPi5v-1OU)
 
 ## JavaScript
-
 - [Akshay Saini's - Namaste JS](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Hitesh Choudhary](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD)
 - [FreeCodeCamp](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -47,7 +43,6 @@
 - [WSCube ES6](https://www.youtube.com/playlist?list=PLjVLYmrlmjGe3fUTOCarulICb3R8iAh4t)
 
 ## React
-
 - [Programming with Mosh](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - [Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 - [React Mega Course](https://www.youtube.com/playlist?list=PLGyA74h_S9No5V5TRjHc893mN7rs-VaoZ)
@@ -63,7 +58,6 @@
 - [React By Building Real World Projects](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 
 ## Databases
-
 - [SQL - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsKOdPrKeSOp4rN3mza8VHN)
 - [SQL - Clever Programmer](https://www.youtube.com/playlist?list=PL-J2q3Ga50oM2lDkE1TOhPbyb1b8DlTMJ)
 - [SQL - Khan Academy](https://www.youtube.com/playlist?list=PLSQl0a2vh4HCtgJXRDRah4IlKPfeflhii)
@@ -73,7 +67,6 @@
 - [MySQL - Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-l5kVSNVKGO60V6RkXAVtp-)
 
 ## Learning Python
-
 - [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Corey Schafer 2](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
 - [SentDex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
@@ -92,7 +85,6 @@
 - [WsCube](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7)
 
 ## Python Projects
-
 - [Single Video Projects](https://www.youtube.com/playlist?list=PLiQoBx7ZPIJXpkuNFPa-fjsn1pGQ2ZV2Y)
 - [Fun With Python](https://www.youtube.com/playlist?list=PL8OpI12Uwnol-pI_ryFLE908HXTe9odfb)
 - [Slack Bot - Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kqyzTzJWCV6lyK-ZMYECDc)
@@ -103,7 +95,6 @@
 - [Python Mini Projects](https://www.youtube.com/playlist?list=PL7yh-TELLS1EgOLIPo1sVuf_rDPEp33S8)
 
 ## Flask
-
 - [The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDi9F_slcQK7knjtO8TUvUs)
 - [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX)
 - [Code With Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf)
@@ -121,7 +112,6 @@
 - [One Video Projects](https://www.youtube.com/playlist?list=PLiQoBx7ZPIJVy-o5o258wcpdsiOWhEL42)
 
 ## Django
-
 - [The New Boston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK)
 - [Tech With Tim](https://www.youtube.com/playlist?list=PLzMcBGfZo4-kCLWnGmK0jUBmGLaJxvi4j)
 - [SentDex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
@@ -144,7 +134,6 @@
 - [SD - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 ## Machine Learning
-
 - [Machine Learning — Andrew Ng](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Machine Learning — SentDex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 - [Machine Learning - StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
@@ -155,7 +144,6 @@
 - 
 
 ## Data Science
-
 - [Data Science Series - Freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
 - [Data Science - Freecodecamp](https://www.youtube.com/watch?v=ua-CiDNNj30)
 - [Matplotlib - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
@@ -165,7 +153,6 @@
 - [Neural Nine](https://www.youtube.com/playlist?list=PL7yh-TELLS1FfO5Q8KHK31VgsrcnWcTAk)
 
 ## Other CS Concepts
-
 - [GIT - Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 - [GIT - WsCube](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX)
 - [Git - Pepcoding](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEW-8x9Js6m5UixBUciYaMV)
@@ -184,7 +171,6 @@
 - [COA - Gate Smashers](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX)
 
 ## Beyond CS
-
 - [Mechanical Concepts - Learn Engineering](https://www.youtube.com/playlist?list=PLuUdFsbOK_8pIX0p_roLRdfvY7Ax8u-jE)
 - [Mechanical Equipment Design - Learn Engineering](https://www.youtube.com/playlist?list=PLuUdFsbOK_8oiTXoONBIdF0vErGSGZbWs)
 - [Aerospace & Aeronautical - Learn Engineering](https://www.youtube.com/playlist?list=PLuUdFsbOK_8ree2xXtXR2S394u9hTYIU3)
